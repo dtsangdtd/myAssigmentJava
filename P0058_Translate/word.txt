@@ -1,0 +1,7 @@
+red;mau do
+yellow;mau vang
+dog;con cho
+green;mau xanh la
+cat;con meo
+oranage;trai cam
+computer;may tinh

@@ -1,0 +1,13 @@
+SamSung-SamSung glaxy:
+Note 10,Exynos 9825,10000
+Note 9,Exynos 9810,90000
+S9,Exyos 9810,999000
+S10,Snapdragon 855,1600000
+Apple-Iphone:
+Iphone x,Apple A12,2000000
+Iphone 11 Pro,Apple A13,2500000
+Iphone 11 Pro max,Apple A13,3000000
+Sony-Sony Experia:
+Sony Experia X,Snapdragon 865,500000
+Sony Experia Z5, Snapdragon 810,1500000
+Sony Experia XA1,Snapdragon 855,1500000
